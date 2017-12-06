@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_recherche"
+        android:orderInCategory="100"
+        android:title="@string/recherche"
+        app:showAsAction="collapseActionView|ifRoom"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        />
+
+    <item
+        android:id="@+id/vue_description"
+        android:orderInCategory="100"
+        android:title="@string/description"
+        android:icon="@drawable/ic_vue_description"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/vue_liste"
+        android:orderInCategory="100"
+        android:title="@string/liste"
+        android:icon="@drawable/ic_vue_liste"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/vue_grille"
+        android:orderInCategory="100"
+        android:title="@string/grille"
+        android:icon="@drawable/ic_vue_grille"
+        app:showAsAction="ifRoom"/>
+
+</menu>
