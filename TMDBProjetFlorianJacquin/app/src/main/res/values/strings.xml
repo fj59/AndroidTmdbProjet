@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">tmdbProjetJacquin</string>
+
+    <string name="navigation_drawer_open">Ouvrir navigation bar</string>
+    <string name="navigation_drawer_close">Fermer navigation bar</string>
+
+    <string name="action_settings">Parametre</string>
+    <string name="title_activity_favoris">Activité Favoris</string>
+    <string name="title_activity_settings">Activité paramètre</string>
+    <string name="title_activity_film_detail">Activité détail</string>
+
+    <string name="grille">grille</string>
+    <string name="liste">liste</string>
+    <string name="description">description</string>
+    <string name="recherche">Recherche</string>
+
+    <string name="film">Films</string>
+    <string name="serie">Séries</string>
+    <string name="favoris">Films favoris</string>
+    <string name="favoris_serie">Séries favorites</string>
+    <string name="param">Paramètres</string>
+
+    <string name="propos">2017 Jacquin Florian
+        Remerciement
+            -squareup(Retrofit,Picasso)
+            -The Movie Database</string>
+
+    <string name="langue">Langue</string>
+    <string name="qualite_image">Qualité image</string>
+    <string name="titre_propos">A propos</string>
+    <string name="maximum">Haute</string>
+    <string name="moyenne">Moyenne</string>
+    <string name="minimum">Basse</string>
+    <string name="title_activity_param">paramActivity</string>
+</resources>

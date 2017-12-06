@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">tmdbProjetJacquin</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">settings</string>
+    <string name="title_activity_favoris">favoris activity</string>
+    <string name="title_activity_settings">settings activity</string>
+    <string name="title_activity_film_detail">detail activity</string>
+
+    <string name="grille">grid</string>
+    <string name="liste">list</string>
+    <string name="description">description</string>
+    <string name="recherche">Search</string>
+
+    <string name="film">Movies</string>
+    <string name="serie">Series</string>
+    <string name="favoris">Favorites Movies</string>
+    <string name="favoris_serie">Favorites TV</string>
+    <string name="param">Settings</string>
+
+    <string name="propos">test des propose</string>
+
+    <string name="langue">Langage</string>
+
+    <string name="qualite_image">Image quality</string>
+    <string name="titre_propos">About</string>
+    <string name="maximum">High</string>
+    <string name="moyenne">Middle</string>
+    <string name="minimum">Low</string>
+</resources>
